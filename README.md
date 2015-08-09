@@ -10,4 +10,8 @@ Conains parts, such as inductions, wakeners, or suggestions
 
 ## /scripts
 
-Made up of the "parts" above.
+For scripts which can't be broken up into parts.
+
+## /instructions
+
+Starter guides and what not
