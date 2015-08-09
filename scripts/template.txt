@@ -7,4 +7,4 @@ Post hypnotic: <Anything thing which impacts you afterwards, triggers, changes, 
 Themes: <Any overall specific theme to the whole script>
 Components: <What is in the script, induction?, wakener?, etc.> 
 
-<script>
+<script -- Mark each section if possible, ie pre, induction, suggestion, wakener>
