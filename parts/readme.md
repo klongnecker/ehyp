@@ -7,6 +7,14 @@ Talk which is there to make the subject feel at ease, tell them what you are goi
 
 Provide a guide into the hypnotic state
 
+### Instant inductions
+
+Fast inductions, which are more technique than wording usually.
+
+## Deepener
+
+Generally done after the induction before some of the suggestions, designed to help the subject get into a deeper state of hypnosis.
+
 ## Suggestions
 
 Suggestions can be anything, they are the core part of hypnosis, generally the reason you are getting into that state.
