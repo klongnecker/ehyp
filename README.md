@@ -20,3 +20,7 @@ Starter guides and what not
 # Note
 
 I am not particular about how this works in the long run.. if you come up with a pull request that restructures the whole thing.. I am all for it.. If you have a pull request which removes a lot of content.. I will probably be against that.
+
+# Links
+Links are here to avoid duplication of other resources, and avoid plagurism.
+* http://www.howtodoinductions.com/
